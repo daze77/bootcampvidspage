@@ -1,7 +1,7 @@
 var classList = document.querySelector('ul')
 
 
-
+function getInfo(){
 fetch('/classvidsinfo.json')
 .then(response => response.json())
 .then(data => {
@@ -22,3 +22,6 @@ fetch('/classvidsinfo.json')
 
 
     })
+
+}
+getInfo()
