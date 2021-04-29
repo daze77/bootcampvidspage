@@ -2,7 +2,7 @@ var classList = document.querySelector('ul')
 
 
 async function getInfo(){
-await fetch('/classvidsinfo.json')
+await fetch('./classvidsinfo.json')
 .then(response => response.json())
 .then(data => {
                 const jsonData = data
