@@ -10,7 +10,7 @@ await fetch('./classvidsinfo.json')
 
 
                 const classDetails = jsonData.map(item=>
-                    `<li class="list-group-item"><strong>${item.SessionNumber}</strong>   ${item.SessionName}
+                    `<li class="list-group-item sessionNames"><strong>${item.SessionNumber}</strong>   ${item.SessionName} <span class="float-end"><small>${item.Date}</small></span>
                         <ul class="vidList"> 
                         ${item.Videos.map((vid,i)=>`<li><a href='${vid}' target="_blank">Video: ${i+1}</a></li>`).join('')}
                         </ul>
