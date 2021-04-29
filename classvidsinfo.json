@@ -1,0 +1,362 @@
+[
+    {
+        "SessionNumber": 1.1,
+        "SessionName": "The Zen of Coding",
+        "Date": "January 11, 2021",
+        "Videos": ["https://zoom.us/rec/play/PIIKkil8aJW7525zh2gc7f3UsopNAy7p7h-CGb_A7wkh2LspiLZjt1qypQKEboXZKBeTwCPa_WbAg1MX.CqxjTwSjyJffYPGs?autoplay=true"]
+    },
+    {
+        "SessionNumber": 1.2,
+        "SessionName": "Going Pro with HTML/CSS",
+        "Date": "January 12, 2021",
+        "Videos": ["https://zoom.us/rec/play/pVaqFek8V2g1FycgOdb-Jwz-esq0lx8jaXK5LZpqqHbhjRQOdXAV5EOIItP3z_wP8mzwNlbkW2ZNS6R_.V1CM_VrM9k_Fj-yr?autoplay=true"]
+    },
+    {
+        "SessionNumber": 1.3,
+        "SessionName": "Heroes of CSS",
+        "Date": "January 13, 2021",
+        "Videos": ["https://zoom.us/rec/play/g30S1W6W9vHZHAdegpGCXL17QTJQMX37apLIHCWiLn9Itq93eIS1aEpYXhOLU8lYXw-Bw-gHB-pYxp6I.uTv95IKj0q2HWiYd?autoplay=true"]
+    },
+    {
+        "SessionNumber": 1.4,
+        "SessionName": "Down and Dirty CSS",
+        "Date": "January 14, 2021",
+        "Videos": ["https://zoom.us/rec/play/Vn0bN8WOBRUgnERyqx5Z2jm1ZRHnVevnSyxvcbvNX07-D37vxwMfehj2UWrS_RRFxYLoZ4Nz8_kwEp0i.byOvLV28uzAuMxx2?autoplay=true"]
+    },
+    {
+        "SessionNumber": 1.5,
+        "SessionName": "Responsive Designs",
+        "Date": "January 15, 2021",
+        "Videos": ["https://zoom.us/rec/play/QnodriGODq9UgX7R0e3wgkV4ySO8nW6y3Pd7j4NzAWOHGtteeVnYm93iiK3a_kSowc5l1bkAffMpegbj.e0FeU7grjY2aGpDH?autoplay=true","https://zoom.us/rec/play/EPojPDqWHfTvWf1rt5D3SKO1JD12juyqpjy26wBHGxEVv6nC3wt2q7wmNIeLIHtWGbQA3Hg_XKdAdmE4.j2dkdh9-5B-nvyqE?autoplay=true"]
+    },
+    {
+        "SessionNumber": 2.1,
+        "SessionName": "JavaScript",
+        "Date": "January 18, 2021",
+        "Videos": ["https://zoom.us/rec/play/9hjhZ1TpF-Vvyz0pmRHu6aEH4L71pN5cwxVUzR8teVWZ3llrMLzNHgqNRmL2L5hJgZ64_w5BqWrn8U33.w0wXm7ZzczJleRE_?autoplay=true"]
+    },
+    {
+        "SessionNumber": 2.2,
+        "SessionName": "JavaScript",
+        "Date": "January 19, 2021",
+        "Videos": ["https://zoom.us/rec/play/_68Dpcp-F4EHE-mU7S5ytRAYUnqZqT9Z632bo5hubsy-aLLPzHo_FVHAheJtMTek7yxYyRIdNOQqOZV1.nU_WZqcxB11Ct3X3?autoplay=true","https://zoom.us/rec/play/lR6v9_vL1MWS_xXopqjYdzSNF7YffSMYRi0Jd0GLsX8lRzPbCxPSAEyRELFN8f4oP5QYAfIWDgO32H8S.hmapKb4k7md1KDP4?autoplay=true"]
+    },
+    {
+        "SessionNumber": 2.3,
+        "SessionName": "JavaScript/Web APIs",
+        "Date": "January 20, 2021",
+        "Videos": ["https://zoom.us/rec/play/EG-BJuu1JBZFnROSO_EF5u8qr-4hwSJImAzzr5ZNTo-WFr9qeBiN-x6Yq8KZYPFZQT_ENwB8C74sNH3Q.UAbKGJuenapxko58?autoplay=true","https://zoom.us/rec/play/TBXVFIg3FZFf6mRf5W8_Lo5YqfENm91-3Ea8Wp134HbCwxkIJLjRYRQSi3L-lxuWXTL8junQBhaRfTL9.cP6XxgQB8i_TxvAt?autoplay=true","https://zoom.us/rec/play/3R5-iz9i_P3SlWB_Wp6dDULWZ6TFamE6-z_wUbjnVMQFkX2UF2LyOUDpkKXFdHbB1CgK_vPKqCyvTFo1.nNiNLNCvT_Cm81_D?autoplay=true"]
+    },
+    {
+        "SessionNumber": 2.4,
+        "SessionName": "Web APIs",
+        "Date": "January 21, 2021",
+        "Videos": ["https://zoom.us/rec/play/a44gXwEc1Riylp1PX12-rCQNK7sP9uDJj0TctL8IWGn9m7hyhFgq9urf6HyCn2GPXe82ycdvZKkg9ouo.ntimsApJLOXS0hNH?autoplay=true","https://zoom.us/rec/play/YmgFaUCm-1a4zaXj3UIlsr3we070HANe8ALMDmUqVs_t_pb-HWbfTdX5hNqEOTxMSsRY-5ESIdyr7aH2.OT2zd00NC979SeMi?autoplay=true"]
+    },
+    {
+        "SessionNumber": 2.5,
+        "SessionName": "Web APIs",
+        "Date": "January 22, 2021",
+        "Videos": ["https://zoom.us/rec/play/hKesXqFxv9Os1fjMYdAu3uKzUhoHxmDMq0kAfMdaqTI-NuiDUQk90tmLSpPcUGIK-w0fv42gXHcB43RP._MV8Xx29TvFCY3aA?autoplay=true"]
+    },
+    {
+        "SessionNumber": 3.1,
+        "SessionName": "Third-Party APIs",
+        "Date": "January 25, 2021",
+        "Videos": ["https://zoom.us/rec/play/24ZedEIZpY5jOVMzIBRZhI0Gsy_uR7ftVVGBGqajDWorGOCpCX1cU5pCm2wBzCH9Qn_lutHqPyrx6YEo.LQnV8uuSkU0Wshav?autoplay=true&startTime=1611584324000","https://zoom.us/rec/play/Zonu-TJ58vgLvkTsMOFKwckYhAs6M5mPZwGJ3vNBFAC1dXItE9RkmE1QrHCt70BqaDmfVke1RE5ZSJdw.cYBStQ1xM6ynMGDm?autoplay=true"]
+    },
+    {
+        "SessionNumber": 3.2,
+        "SessionName": "Third-Party APIs",
+        "Date": "January 26, 2021",
+        "Videos": ["https://zoom.us/rec/play/5mgc7p8gLQtY56P7unfhNWwHj8XzznCypRN2nVV55zslD6VgjgjyWolWXDUmu6fOK3TJ0OO2Ni0Ca8WR.xHM15jTel0XGDXTA?autoplay=true"]
+    },
+    {
+        "SessionNumber": 3.3,
+        "SessionName": "APIs/Server-Side APIs",
+        "Date": "January 27, 2021",
+        "Videos": ["https://zoom.us/rec/play/eLx92qf6I2IvgW4vTODSCqCPWoyd1elyblLKrM24PiED7ydXOVcuOaFW7Luusk_MaSoIRj_oRCuFMoDp.fGNpQL3Sf7L3CbhQ?autoplay=true","https://zoom.us/rec/play/Mv68-3ZiCnYV9HpZ5xrzS0BTFkThKvW72Ne3kj27KuYjljWN3TnX_0CmCRhnrKYEotLmPXiJtYtt-UER.mRq5EdgI0y_Xlj5j?autoplay=true","https://zoom.us/rec/play/4Ht2a-AKIPEEWulqiiHtpX-UnKXrgZzONpDOYFeVNXw99uqNlW_OimRaEpn431iEUZRyNeVPDD8l0Hzs.V-6pezTKephNN2bS?autoplay=true"]
+    },
+    {
+        "SessionNumber": 3.3,
+        "SessionName": "Server-Side APIs",
+        "Date": "January 28, 2021",
+        "Videos": ["https://zoom.us/rec/play/I9HlDqI37mBCQlDJ2E-UUAWOLOPfe-ozEqaE5uX_C4yrr91jB64cLnHlW1Qwwuur46eKzOfXittDgGta.E44xl3bZJVyadIdK?autoplay=true"]
+    },
+    {
+        "SessionNumber": 3.4,
+        "SessionName": "Server-Side APIs",
+        "Date": "January 29, 2021",
+        "Videos": ["https://zoom.us/rec/play/UdnbVFgMWlnCjc2nN724t8qieBqIMyGaICeDpPE8p4YYboaDdt3qRiDafscehzBlnzil3ZS6w1c58PFN.sx-p7WsfqMGfet3x?autoplay=true"]
+    },
+    {
+        "SessionNumber": 4.1,
+        "SessionName": "Introduction to Project #1",
+        "Date": "February 1, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 4.2,
+        "SessionName": "Project #1",
+        "Date": "February 2, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 4.3,
+        "SessionName": "Project #1",
+        "Date": "February 3, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 4.4,
+        "SessionName": "Project #1",
+        "Date": "February 4, 2021",
+        "Videos": ["https://zoom.us/rec/play/7sXOcTPbkNg1TlQnq-iq0g13ifMhiIGO5yOAfDwuSb8oEnB6oSqRkeGuEJB9pT-SJyZ1lqppWXaLKt06.8cO_aPbaxQVu8eyW?autoplay=true"]
+    },
+    {
+        "SessionNumber": 4.5,
+        "SessionName": "Project #1",
+        "Date": "February 5, 2021",
+        "Videos": ["https://zoom.us/rec/play/RL8FOpQioB10exsMeUI3OJM7tVU241Rt34dkljR-zovU9rd5QVQUH58TJKHV6bmYFIgMhpPs_iMLEn8m.NR9FG8rw789em6RU?autoplay=true"]
+    },    
+    {
+        "SessionNumber": 5.4,
+        "SessionName": "Node.js",
+        "Date": "February 8, 2021",
+        "Videos": ["https://zoom.us/rec/play/k5t1eqx1k_qB0NpEHzfC0A0MfiA_JYSY2iHpZtes99yxyvInw0FS8-6I5EEWQtNmzszEVZCeY2EDCMuF.NFXB0wZZ8sQ3xkkD?autoplay=true","https://zoom.us/rec/play/EJAskVlVDJnqB3S-21YtujBoWJatFjVXCnSHjjThI9ME4wU04_4JhHPXy-VNlR5q82bLAF0ymOqMkWmH.aEDwJebpKmvEmPJp?autoplay=true"]
+    },
+    {
+        "SessionNumber": 5.2,
+        "SessionName": "Node.js",
+        "Date": "February 9, 2021",
+        "Videos": ["https://zoom.us/rec/play/JBnzbqde7v7v5VqKE6sfhTqUcm6U-avQRH_pstf8mL9_6d0wLJJb6oW7KKKwxjqGoKhwkaMqOgPJstaw.NMsrJ0chKTwy8VmI?autoplay=true","https://zoom.us/rec/play/Z3UbACzUPbqFEdKQJNLaTDMaWKbtlVgTQ_7uugzUpd0qaQI3EeST7YZ1uoS7fswqRUNLhHuP5-_f0m1K.0FcZA6RpRJyXJFry?autoplay=true"]
+    },
+    {
+        "SessionNumber": 5.3,
+        "SessionName": "Node.js/Object-Oriented Programming (OOP)",
+        "Date": "February 10, 2021",
+        "Videos": ["https://zoom.us/rec/play/JBnzbqde7v7v5VqKE6sfhTqUcm6U-avQRH_pstf8mL9_6d0wLJJb6oW7KKKwxjqGoKhwkaMqOgPJstaw.NMsrJ0chKTwy8VmI?autoplay=true","https://zoom.us/rec/play/Z3UbACzUPbqFEdKQJNLaTDMaWKbtlVgTQ_7uugzUpd0qaQI3EeST7YZ1uoS7fswqRUNLhHuP5-_f0m1K.0FcZA6RpRJyXJFry?autoplay=true"]
+    },
+    {
+        "SessionNumber": 5.4,
+        "SessionName": "Object-Oriented Programming (OOP)",
+        "Date": "February 11, 2021",
+        "Videos": ["https://zoom.us/rec/play/J2-BBHCD1XYMMgEBlKTDsyZUYW5stUlUdqrpKPZ07Cy5Ls8HZDLjc_MMKWhqj7IB2EDkVWWnmfCW-y1u.rfwg85rHJa81Xadh?autoplay=true"]
+    },
+    {
+        "SessionNumber": 5.5,
+        "SessionName": "Object-Oriented Programming (OOP)",
+        "Date": "February 12, 2021",
+        "Videos": ["https://zoom.us/rec/play/dCuQdWeVbS6G37FLNIDdIcZHuerttZCZ7gaP_IsAQmEyM7RF8ypk1InOoMWaXbmh2bfW8yqB_Er26aYp.xZmVOpTAiKJD9tLf?autoplay=true","https://zoom.us/rec/play/IEDqy2WWwfyrTVg19EJJcfZcIpeujvZYIVzzIQ5KDsR7YywjYNiLZ5254FjsbGCiQinLSASyh3OCu7Ye.B5ufCTgtfyVfIfsU?autoplay=true","https://zoom.us/rec/play/rTRQ_-phVteTDo6A0jJ8Qrtmy1YCwSKaR6xFMcQv17Cbdl7Rqr9Ewq0WoRVCeEvylgqc7AZCok7UIeoS.OhN60p4IwXm_yNai?autoplay=true"]
+    },
+    {
+        "SessionNumber": 6.1,
+        "SessionName": "Introduction to Node Servers & Express Yourself",
+        "Date": "February 16, 2021",
+        "Videos": ["https://zoom.us/rec/play/x0iTXLem2Uhg8CbDCqkqNPxYGkBpubgWmis-cfWDaQwd8qMSGIk2odo2FPF595iV1XKSdZ9XiCmUgnQG.eP3yylGInly_d9do?autoplay=true","https://zoom.us/rec/play/oj8oLAUkEzMrtmFNLIDxr14u7xOVYL4VttnmuLKOo7WT-M2FlBuBiqI3UNVE-i3FK0JAMBS_cCPKZE4s.4pD-ufdHFNyDkbWs?autoplay=true"]
+    },
+    {
+        "SessionNumber": 6.2,
+        "SessionName": "Express Yourself & Express Mini-Project",
+        "Date": "February 17, 2021",
+        "Videos": ["https://zoom.us/rec/play/ImjuTzmmRVK5d1LqoVkYFRfaOaslMp3avGdivGIsJA37T-JhORpfryJ_VRkGRPhjwRLEPG6pJcgzqbBl.VO3nRtbnJqEJFQSW?autoplay=true","https://zoom.us/rec/play/aghgTK3INhRzYdBqKzZRo1qWe6LY7PYEyX357J3oyc3XXxtG3GIHF_m4SCNRlTiqi3f-stnK5aaxFJrS.0KErc4rSMJY2IAcI?autoplay=true"]
+    },
+    {
+        "SessionNumber": 6.3,
+        "SessionName": "Express Mini-Project Continued & Introduction to MySQL",
+        "Date": "February 18, 2021",
+        "Videos": ["https://zoom.us/rec/play/_zrNGzvoNVnk2u1IPt6FWIn30J523i-wr1J8ah4Prt-JoZqjUL_ioSjOeEw75Ox1DHLTtkzi3Ti9yHKl.yxxAbRSrZT9vRt_8?autoplay=true"]
+    },
+    {
+        "SessionNumber": 6.4,
+        "SessionName": "Node, the SQL",
+        "Date": "February 19, 2021",
+        "Videos": ["https://zoom.us/rec/play/vZiAVKdloUSHNa5sIPbnuYhWMh52-U7hsTqBGSrzTuROSDCWTXv3azW9VrPKSV4VxGwzFP8--gUHVnwl.dPcTr6jkjBwwBbRS?autoplay=true","https://zoom.us/rec/play/d5ieMC3H7iyQBhaTS3eJGjpNvf8pozxXXuWVUoekMlCb0cl5SzprVfoVeHMSqSPULDT5IpAihRl013FG.V4oaJMMk_w60T4yY?autoplay=true"]
+    },
+    {
+        "SessionNumber": 6.5,
+        "SessionName": "MySQL Big Data",
+        "Date": "February 22, 2021",
+        "Videos": ["https://zoom.us/rec/play/i2nRKNtRaPfLWo3dOAqUtU746oEGx0VOtgRdKQref0FOSDplWUPpvWGqOGlj8AiyLgY7fOzBmuO_RkA1.Ma9jsDf0FJZfh5jq?autoplay=true","https://zoom.us/rec/play/Oh_fgrPmUleYFPGD9-2yoLdY6nxEyeK4xcUita-Wl2rEWAnALn56WVG6yrbrCAP0PaqRXwCAelK6dy1R.aDsbswR8m3G8cBom?autoplay=true"]
+    },
+    {
+        "SessionNumber": 7.1,
+        "SessionName": "Intro to Handlebars & Bringing it from the Front to the Back",
+        "Date": "February 23, 2021",
+        "Videos": ["https://zoom.us/rec/play/tjp7u9xo4Mt0TXLfdWA8sfxDkpxFunsGYOVW9fXyrkVE4blUOydnAIZ_3MHf8FgpV0mrY2hqsrONpd5X.8r49E9pXLcOFUskB?autoplay=true"]
+    },
+    {
+        "SessionNumber": 7.2,
+        "SessionName": "The Power of the ORM",
+        "Date": "February 24, 2021",
+        "Videos": ["https://zoom.us/rec/play/JHefBwekkAMioap84QEUesgqO1wGfWeBZkuo1Ct2LmDfWF2R7qbK5Lqt50Ld5B7Vj5aYXJENSDQTNDtk.JFdAjvkNuYgMI4q-?autoplay=true","https://zoom.us/rec/play/L3wxUpdR0QPOskmRSKrz-O7eUEDc3T4lh4-xV3q_q8_OKPLwPOxBBfuMnOf_7TopwuU2--VsSwIDwg-P.n53wJyP3hSTtqNIF?autoplay=true"]
+    },
+    {
+        "SessionNumber": 7.3,
+        "SessionName": "The Sequel to MySQL & Creating and Reading with Sequelize",
+        "Date": "February 25, 2021",
+        "Videos": ["https://zoom.us/rec/play/Stgvucz1g4HMmY8Hncxaq2KEZOhSCiZqy-bKwgMPqGFUxpAzdR6eX4xJYVRiWXl6TqmWoi4CRjLV19Ei.YIL0qREgzf7drT43?autoplay=true","https://zoom.us/rec/play/p1aMI8FSsCYW-Foh4e8iyH9r1dJlFo0iW7JJguzGh3kwu-NuVG2ASe2Ps_wkPYXgTRtUYJJkR1zjTOwS.qZE7Wzb6iqJ5NRoM?autoplay=true"]
+    },
+    {
+        "SessionNumber": 7.4,
+        "SessionName": "UPdate, Delete with Sequelize & Getting Associated with Relations",
+        "Date": "February 26, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 7.5,
+        "SessionName": "Joins in Sequelize & Project #2",
+        "Date": "March 1, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 8.1,
+        "SessionName": "Project #2",
+        "Date": "March 2, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 8.2,
+        "SessionName": "Project #2",
+        "Date": "March 3, 2021",
+        "Videos": ["https://zoom.us/rec/play/RuSoURV76PEg-e3-Xa-Epqy-UIakkk32bXue9mq85mxRcVg8vO8e2U7zR8cIBjgXfWIndmVGkOtoHhXg.w7xuts4-SwarkhMk?autoplay=true"]
+    },
+    {
+        "SessionNumber": 8.3,
+        "SessionName": "Project #2",
+        "Date": "March 4, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 8.4,
+        "SessionName": "Project #2",
+        "Date": "March 5, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 8.5,
+        "SessionName": "Project #2",
+        "Date": "March 8, 2021",
+        "Videos": ["https://zoom.us/rec/share/3YEx9YLd5WxYkJjF83w-xnbQ47YA571ddu4Uyre2g8kNu4P9TvzDIVMmt1qeQVXa.DidTMtjo-Bumncxw?startTime=1615213310000"]
+    },
+    {
+        "SessionNumber": 9.1,
+        "SessionName": "Masters of MongoDB",
+        "Date": "March 9, 2021",
+        "Videos": ["https://zoom.us/rec/share/1TZvvReyONt_gEG7s-0bGxBxwRR0IFEZRheq7fu1dj7T7rm8T5uF3n0YqrFHxXHc.sOBxCYzmWC8jerBD?startTime=1615299272000"]
+    },
+    {
+        "SessionNumber": 9.2,
+        "SessionName": "Intro to Mongoose and IndexedDB",
+        "Date": "March 10, 2021",
+        "Videos": ["https://zoom.us/rec/share/dEu_GOLb4cDJzK53t3Ah7YWPspJbyS3nxgNonKgEngBOcL76SsYW2u_jeBDQc6EA.DbTcOfeIUSE7UniK?startTime=1615385994000"]
+    },
+    {
+        "SessionNumber": 9.3,
+        "SessionName": "Web Performance",
+        "Date": "March 11, 2021",
+        "Videos": ["https://zoom.us/rec/share/P69EYGEYyOXuHPyvWmKgg6_yn4aS59oHubV-obOvGEj6jgZ1-7cYmGxwpy1AWCw._y6eOi7mlEmMwgpP?startTime=1615471963000"]
+    },
+    {
+        "SessionNumber": 9.4,
+        "SessionName": "Progressive Web Apps",
+        "Date": "March 12, 2021",
+        "Videos": ["https://zoom.us/rec/share/jy2NCzdQJh8K9BfqXpzto9DXdIWAAef_eXKdyGWiMVUwnXv-VqqhhdgVKDtwuKsS.7PR-Aa_PVfDEDpGb?startTime=1615558289000"]
+    },
+    {
+        "SessionNumber": 9.5,
+        "SessionName": "Intro to Webpack",
+        "Date": "March 15, 2021",
+        "Videos": ["https://zoom.us/rec/share/F-T9c-iyoGPRXHxOIFDz6FWPfavNiTAVFJ2Rn79THzgMIi-Oan3U0Y5qs3XQ_HWA.IsvdSO76D3S4X3KX"]
+    },
+    {
+        "SessionNumber": 10.1,
+        "SessionName": "Intro to React, Components and JSX",
+        "Date": "March 16, 2021",
+        "Videos": ["https://zoom.us/rec/share/nwTG5eXX5mUBfteiI8Gx9sdoF1RDqbaos87qC0kDBIeD0TjF4T3n8p7u4kHwOmyJ.IRuafWPL6YyVmbVh"]
+    },
+    {
+        "SessionNumber": 10.2,
+        "SessionName": "React State",
+        "Date": "March 17, 2021",
+        "Videos": ["https://zoom.us/rec/share/GtCDnXh-HLkPsDqIqstxd4osy38b53KdFjvxwalal4dHJh5OEs9A0s53H8vpbA80.hLA1qwndt41idTec"]
+    },
+    {
+        "SessionNumber": 10.3,
+        "SessionName": "Forms and React Router",
+        "Date": "March 18, 2021",
+        "Videos": ["https://zoom.us/rec/share/692BFzyeWmsVl23G_axpjhMmZG1pOQGfzkcNA_I1G2AMqesz1YViqjFhS4cP5YBe.-SJlj2om0nEoQeRd"]
+    },
+    {
+        "SessionNumber": 10.4,
+        "SessionName": "React Hooks and the Context API",
+        "Date": "March 19, 2021",
+        "Videos": ["https://zoom.us/rec/share/UTRPNegwfjV1g2OAEB2dvhDQXWXvKqwmso5YQnX02jnvsuqaavgmflk1q-80xOk.0i0BfuKAXUCLYH7U"]
+    },
+    {
+        "SessionNumber": 10.5,
+        "SessionName": "State Management with the Store",
+        "Date": "March 22, 2021",
+        "Videos": ["https://zoom.us/rec/play/gdJ97FyKaVUD4kh1ToqHE3GBmqDANG0h5nF1UFF17E7j_G1lmL5EFnsT6_lcsWbii9ry0HwCl0wi9dff.4lal1Kv7orNT1l_T?autoplay=true"]
+    },
+    {
+        "SessionNumber": 11.1,
+        "SessionName": "MERN",
+        "Date": "March 23, 2021",
+        "Videos": ["https://zoom.us/rec/play/1b9N_RH9GGhg_6dPMilUYs74gFemhS-C4jyzV3h3Akow2jGNyBmuXq4qr7HwnkAqwvbNEAF1nsRyENJu.yXe-ygYDsC61ljMQ?autoplay=true"]
+    },
+    {
+        "SessionNumber": 11.2,
+        "SessionName": "React.js Review",
+        "Date": "March 24, 2021",
+        "Videos": ["https://zoom.us/rec/play/n664HkSUStOqYf5QnmPsnqR2If4q0vxZpUq718StmcGB_1Ep1csUMOa8T0JFwGjMc5ORu92n9OPx1fp6.5tdkYxJ9e2r7dNi_?autoplay=true"]
+    },
+    {
+        "SessionNumber": 11.3,
+        "SessionName": "Intro to Final Projects",
+        "Date": "March 25, 2021",
+        "Videos": ["https://zoom.us/rec/play/4ds3LF0dqPSqKyjMpjbI-6liy02DGw2dRS5hsU_m2vv1DrrpE_AnRX--GlhzgTBLLcrh3sO2LsjAI89x.d5UikJTV0h6ilFSP?autoplay=true","https://zoom.us/rec/play/osahC_IulvhfSK6jVmmdiLf2HPLjq1q42V09Q3LYsMQJl2Ntm5PYaecnRNwoBA_GsKLDGYI2yQ9s3WFc.zWpErEavEDkiCb-e?autoplay=true","https://zoom.us/rec/play/Cxpmkq5GsY1Ta2TtGRPKFpXTVyLxpJrGkwZOqnic_1gyx65_qCPMLWtwu5nkGQPu-jkmNfPy5eyrfOu3.zSUEBgLrM0l_URQ9?autoplay=true"]
+    },
+    {
+        "SessionNumber": 11.4,
+        "SessionName": "Basics of Algorithms and Sorting Algorithms",
+        "Date": "March 26, 2021",
+        "Videos": ["https://zoom.us/rec/play/tjABESpeL9o0W7tEfrqXINfY_ucVRMcvEXiYNDc7n8mW7YWu5X_cZyik1TP-grKE86QBZOw9jmDIC-qQ.Anz7U3ZU_jGnGI6u?autoplay=true","https://zoom.us/rec/play/t_CeUiz0Gbbrlo0Pf_bCxmOobx3_tN88ECkPrrKl99uxjS0hMiSD_3HqKNEL1pj3HJAo7xA32SGvPLGO.LZT77W2yE35G540c?autoplay=true"]
+    },
+    {
+        "SessionNumber": 11.5,
+        "SessionName": "Big O & Data Structures",
+        "Date": "March 29, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 12.1,
+        "SessionName": "Portfolios & Project Work",
+        "Date": "March 23, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 12.2,
+        "SessionName": "Portfolios & Project Work",
+        "Date": "March 24, 2021",
+        "Videos": ["https://zoom.us/rec/play/LySHkHfTMIf13cO9nIFJ-Wsu-V9D5VLVbtIqHK1SRg1JoGjNDRwB_ARwf9APyy4hxHm1p4T1Qg9DeB5B.X8mepcU1Ey723jPj?autoplay=true"]
+    },
+    {
+        "SessionNumber": 12.3,
+        "SessionName": "Final Project",
+        "Date": "March 25, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 12.4,
+        "SessionName": "Final Project",
+        "Date": "March 26, 2021",
+        "Videos": []
+    },
+    {
+        "SessionNumber": 12.5,
+        "SessionName": "Final Project Presentations",
+        "Date": "March 29, 2021",
+        "Videos": ["https://zoom.us/rec/play/q0JjqUiIkldInMRW2-OltsgjgiweSV_KXALwbL2C_FgezQYZKg-b_cffPbHGWPC9UHoWZn0Z8XaNilNf.-forQ66RzK40dIeq?autoplay=true","https://zoom.us/rec/play/JFt4Ep_Rragrt4e4flrToxe2aZ9cC9FB0j84FSko26rpB_A1e-4Jk0CoE-HHoFXfmZvxR6N9H6gNmwCg.wRfX51c94FI1PBuD?autoplay=true","https://zoom.us/rec/play/HEx5kSokzxC8eAz0pUMYQNBPU-ANd0-nJijxlGlImhYglOhs8pMG2qsgyH00eccfjjyFqp9EYaRQtROR.JMEk3YbnA_p460ps?autoplay=true", "https://zoom.us/rec/play/1FP5DC8Uo1ynQDRfCedJxw9HftQMST9DfrntkWQkRNJMm6pZq0FoHaTggE3h4cjGFPSYenh5onhLFXQr.wDAE6378PlqXxF84?autoplay=true", "https://zoom.us/rec/play/0HLPPOIBpOhJIQCcc6a-0DWyaeSrlD5oviFaYE8wTXLANY7imrW97_FlGmsEa02EaAimDPbFx5sogg.yXYvwVS1Dnv4Va2e?autoplay=true", "https://zoom.us/rec/play/RFz0SZV9ZKd11IjwszshYAqMiOkdw6HCtMtzOt8iCLBnqg6ekABzKD0F66vbiz_HNPFDSt99Jd9jAZNE.sEqSUOZSHHJNmo-x?autoplay=true", "https://zoom.us/rec/play/jkvb-bowt2-MWlcHqf2_bo8JywAwYoC5474O1OlQziOEsxuZrj7WeFtY2KMMIv54JpUbbCDorEN32XTN.ldHZGgAqDKthS-qp?autoplay=true", "https://zoom.us/rec/play/DaLDnsVrZz8E-srzDdo-O_-2QP7-a3Cs4f7LKS1e5KS_cLouJd1FdbbWVEZy9LP8GTSxJL8ZE6YOwP6g.uuurdA87UOMDRCEx?autoplay=true"]
+    }
+]
