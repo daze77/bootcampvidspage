@@ -11,3 +11,14 @@ small{
     border-radius: 5px;
 
 }
+
+
+
+.list-group-item{
+    transition: all .2s ease-in-out;
+}
+
+.list-group-item:hover{
+    transform: scale(1.1);
+}
+

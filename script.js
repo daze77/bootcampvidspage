@@ -6,7 +6,6 @@ await fetch('./classvidsinfo.json')
 .then(response => response.json())
 .then(data => {
                 const jsonData = data
-                console.log(jsonData)
 
 
                 const classDetails = jsonData.map(item=>
@@ -17,7 +16,6 @@ await fetch('./classvidsinfo.json')
                     </li>`
                     ).join('')
                 
-                console.log(classDetails)
                 document.querySelector('.classVidList').innerHTML+=classDetails
 
 

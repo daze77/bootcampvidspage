@@ -4,13 +4,16 @@
 
 
 ## Table of Contents 
-- [Description](#description)
-- [Installation Instructions](#installation-instructions)
-- [Usage](#usage)
-- [Licensing](#licensing)
-- [Contributing](#contributing)
-- [Tests Code](#tests-code)
-- [Questions](#questions)
+- [Bootcamp Class Videos Page](#bootcamp-class-videos-page)
+  - [Table of Contents](#table-of-contents)
+  - [Description](#description)
+  - [Installation Instructions](#installation-instructions)
+  - [Usage](#usage)
+  - [Licensing](#licensing)
+  - [Contributing](#contributing)
+  - [Tests Code](#tests-code)
+  - [Actual Site](#actual-site)
+  - [Questions](#questions)
     
 ## Description
     This page was pulled together so that I can access the vidos fromo class on my own page.  The bootcamp site is great but you have to log in and you get timed out and its not easy to go from one video to the next or skip around easily.  So I created this simple page to help me out.
@@ -30,6 +33,10 @@
     
 ## Tests Code
     To test, click on the link to access the page.  Then click on the vidio link to start the video.
+
+
+## Actual Site
+The site can be access here [BootCamp Class Vids](https://daze77.github.io/bootcampvidspage/)
     
 ## Questions
     
