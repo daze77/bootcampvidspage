@@ -13,6 +13,7 @@
   - [Contributing](#contributing)
   - [Tests Code](#tests-code)
   - [Actual Site](#actual-site)
+  - [Images](#images)
   - [Questions](#questions)
     
 ## Description
@@ -37,6 +38,9 @@
 
 ## Actual Site
 The site can be access here [BootCamp Class Vids](https://daze77.github.io/bootcampvidspage/)
+
+## Images
+Here is an image of the simple page ![WebPageImage](/Assets/images/PageScreenShot.png)
     
 ## Questions
     
